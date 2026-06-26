@@ -1,2 +1,2 @@
-# pysite
-a site for bakugo
+# Celestial Lotus Palace
+celestial lotus palace recruitment hall
